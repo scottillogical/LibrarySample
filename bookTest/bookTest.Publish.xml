@@ -1,0 +1,20 @@
+<publishData>
+  <publishTarget publishUrl="C:\Documents and Settings\Scott\My Documents\Project Data\bookTest\Code\">
+    <file relUrl="Code/BookOrder.cs" publishTime="02/13/2009 19:57:59" />
+    <file relUrl="Code/Book.cs" publishTime="02/13/2009 20:02:57" />
+    <file relUrl="bookTest.csproj.user" publishTime="02/12/2009 18:38:44" />
+    <file relUrl="bin/bookTest.dll" publishTime="02/13/2009 20:08:51" />
+    <file relUrl="Code/BookList.cs" publishTime="02/13/2009 20:08:45" />
+    <file relUrl="Default.aspx.cs" publishTime="02/13/2009 18:55:12" />
+    <file relUrl="Web.config" publishTime="02/12/2009 18:38:19" />
+    <file relUrl="Default.aspx" publishTime="02/11/2009 15:49:07" />
+    <file relUrl="Default.aspx.designer.cs" publishTime="02/11/2009 15:49:07" />
+    <file relUrl="bin/.svn/entries" publishTime="02/11/2009 16:17:16" />
+    <file relUrl="bin/.svn/all-wcprops" publishTime="02/11/2009 16:17:16" />
+    <file relUrl="Code/DataGroup.cs" publishTime="02/13/2009 20:07:57" />
+    <file relUrl="bin/bookTest.pdb" publishTime="02/13/2009 20:08:51" />
+    <file relUrl="bookTest.csproj" publishTime="02/12/2009 18:20:25" />
+    <file relUrl="bin/.svn/format" publishTime="02/11/2009 16:16:56" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="02/11/2009 15:49:07" />
+  </publishTarget>
+</publishData>
